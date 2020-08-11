@@ -30,7 +30,7 @@ var jsLibs = [
 
 //Порядок подключения js файлов
 var jsFiles = [
-   // 'src/js-files/menu-icon.js',
+   // 'src/js-files/cards.js',
    // 'src/js-files/slick.js',
    // 'src/js-files/index.js',
    // 'src/js-files/test.js'
